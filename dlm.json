@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.1.1/dlm_0.1.1_windows_amd64.zip",
+            "bin": [
+                "dlm.exe"
+            ],
+            "hash": "65c92fd7ad40439de861b562bb94ffc3564541f0ea187d840220ea586f04908c"
+        },
+        "arm64": {
+            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.1.1/dlm_0.1.1_windows_arm64.zip",
+            "bin": [
+                "dlm.exe"
+            ],
+            "hash": "3bef086766da78a6d4b8a18e87bfd48a48afb905da24ecc8073c3d83b7dea53b"
+        }
+    },
+    "homepage": "https://github.com/sabadia/dlm-server",
+    "license": "Apache-2.0",
+    "description": "Cross-platform download manager daemon and command-line client"
+}
