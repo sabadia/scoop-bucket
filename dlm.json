@@ -1,19 +1,19 @@
 {
-    "version": "0.7.3",
+    "version": "0.7.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.7.3/dlm_0.7.3_windows_amd64.zip",
+            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.7.4/dlm_0.7.4_windows_amd64.zip",
             "bin": [
                 "dlm.exe"
             ],
-            "hash": "6517a7381586d4b8f98af91ddba944be0b0e417a996c5dadb444a0130a969bb3"
+            "hash": "79f3602b8ce019607b418eb91c2ef0848bada05f0e6ca8f3bf3d9542fd58e638"
         },
         "arm64": {
-            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.7.3/dlm_0.7.3_windows_arm64.zip",
+            "url": "https://github.com/sabadia/dlm-server/releases/download/v0.7.4/dlm_0.7.4_windows_arm64.zip",
             "bin": [
                 "dlm.exe"
             ],
-            "hash": "a950b4480808be88c4c9ad43c8c5057cd4450203bd155fea865f37f61d0617e3"
+            "hash": "68add1d11265cda4a5c356a1f7350bb7bdf666b698b54ff0da154c1ea38c71ab"
         }
     },
     "homepage": "https://github.com/sabadia/dlm-server",
